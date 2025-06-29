@@ -24,6 +24,8 @@ Hello, I am a Vuer skilled in React~
 ### Frontend Development
 
 <div style="display:flex;gap:10px">
+<img src="image-11.png" width="50" height="50" alt="vue">
+<img src="image-12.png" width="50" height="50" alt="vue">
 <img src="image-8.png" width="50" height="50" alt="vue">
 <img src="image-6.png" width="50" height="50" alt="react">
 <img src="image-5.png" width="50" height="50" alt="flutter">
@@ -33,11 +35,12 @@ Hello, I am a Vuer skilled in React~
 ### Backend Development
 
 <div style="display:flex;gap:10px">
-
 <img src="image-4.png" width="50" height="50" alt="express">
 <img src="image-7.png" width="50" height="50" alt="nest">
+<img src="image-13.png" width="50" height="50" alt="nest">
 <img src="image-9.png" width="50" height="50" alt="mysql">
 <img src="image-10.png" width="50" height="50" alt="mongodb">
+
 </div>
 </div>
 
