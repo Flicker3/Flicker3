@@ -17,6 +17,30 @@ Here are some ideas to get you started:
 
 Hello, I am a Vuer skilled in React~
 
-my skill
-![alt text](image-8.png) ![alt text](image-6.png) ![alt text](image-5.png)
-![alt text](image-4.png) ![alt text](image-7.png) ![alt text](image-9.png) ![alt text](image-10.png)
+🌱 I’m currently learning serverside render
+
+## 🛠 Technical Skills
+
+### Frontend Development
+
+<div style="display:flex;gap:10px">
+<img src="image-8.png" width="50" height="50" alt="vue">
+<img src="image-6.png" width="50" height="50" alt="react">
+<img src="image-5.png" width="50" height="50" alt="flutter">
+</div>
+<div style="margin-top:10px">
+
+### Backend Development
+
+<div style="display:flex;gap:10px">
+
+<img src="image-4.png" width="50" height="50" alt="express">
+<img src="image-7.png" width="50" height="50" alt="nest">
+<img src="image-9.png" width="50" height="50" alt="mysql">
+<img src="image-10.png" width="50" height="50" alt="mongodb">
+</div>
+</div>
+
+### other
+
+⚡ Fun fact: [I am being tormented by strange demands 😭]
