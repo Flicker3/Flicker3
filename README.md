@@ -43,7 +43,7 @@ Hello, I am a Vuer skilled in React~
 </div>
 </div>
 
-### oOpen Source
+### Open Source
 
 ⚡ Interesting color picker: https://github.com/Flicker3/toning
 
