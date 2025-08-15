@@ -43,6 +43,12 @@ Hello, I am a Vuer skilled in React~
 </div>
 </div>
 
+### oOpen Source
+
+⚡ Interesting color picker: https://github.com/Flicker3/toning
+
+⚡ A notifier with data monitoring: https://github.com/Flicker3/y_notification
+
 ### other
 
 ⚡ Fun fact: I plan to learn algorithms and have already learned the sum of two numbers
